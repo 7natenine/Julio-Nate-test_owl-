@@ -46,47 +46,71 @@ const chatEvents = [
       type: 'message',
       message: 'Hello world',
       time: 1548852646559,
-      timestamp: 1548852484247
+      timestamp: 1548852484247,
+      avatar: 'https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1',
+      name: 'Axe Kubicka'
   },
   {
       participantId: 2,
       type: 'thumbs-up',
-      timestamp: 1548852484247
+      timestamp: 1548852484247,
+      avatar: 'https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1',
+      name: 'Caty Flucker'
   },
   {
       participantId: 4,
       type: 'thumbs-down',
-      timestamp: 1548852484247
+      timestamp: 1548852484247,
+      avatar: 'https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1',
+      name: 'Frank Runciman'
   },
   {
       participantId: 1,
       type: 'raise-hand',
-      timestamp: 1548852544247
+      timestamp: 1548852544247,
+      avatar: 'https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1',
+      name: 'Koren Templeton'
   },
   {
       participantId: 1,
       type: 'clap',
-      timestamp: 1548852544247
+      timestamp: 1548852544247,
+      avatar: 'https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1',
+      name: 'Koren Templeton'
   },
   {
       participantId: 1,
       type: 'join',
-      timestamp: 1548852544247
+      timestamp: 1548852544247,
+      avatar: 'https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1',
+      name: 'Koren Templeton'
   },
   {
       participantId: 5,
       type: 'leave',
-      timestamp: 1548852604247
+      timestamp: 1548852604247,
+      name: 'Ashla Attwool',
+      avatar:
+          'https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1',
+
+
   },
   {
       participantId: 3,
       type: 'join-stage',
-      timestamp: 1548852664247
+      timestamp: 1548852664247,
+      avatar: 'https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1',
+      name: 'Axe Kubicka'
+
+    
   },
   {
       participantId: 3,
       type: 'leave-stage',
-      timestamp: 1548852724247
+      timestamp: 1548852724247,
+      avatar: 'https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1',
+      name: 'Axe Kubicka'
+      
   }
 ];
 

@@ -1,0 +1,12 @@
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 250px;
+  }
+  img {
+    border: 1px solid black;
+    border-radius: 50%;
+  }
+  body {
+    background-color: RGB(65,72,82);
+  }
